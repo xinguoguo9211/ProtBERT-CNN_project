@@ -128,16 +128,6 @@ Stratified recognition on the TRAITdb set reached 90.5% for MHC class I and 33.8
 
 The development corpus was curated from public databases including VDJdb, McPAS-TCR, and IEDB. External validation drew on a PanPep-derived neoantigen set, a pulmonary nodule clinical cohort mapped through TCRMatch, and TRAITdb. Please consult the manuscript for full curation and leakage audit details.
 
-## Citation
-
-Please cite the manuscript if you use this code.
-
-Yang X, Sun X, Wu C, Zhou Y, Huang Z, Qiao H, Li J, Guo X, Huang J, Tao T. ProtBERT embedding-layer representations support class I peptide-TCR recognition. Citation details will be updated after publication.
-
-## License
-
-This project is released under the MIT License.
-
 ## Contact
 
 Please open a GitHub issue for questions or contact the corresponding authors listed in the manuscript.
